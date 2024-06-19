@@ -1,4 +1,4 @@
-package com.innovator.learnit.javacore.Enumeration;
+package com.innovator.learnit.javacore.Enumerations;
 
 public enum Months {
 	JANUARY(31), FEBRUARY(28), MARCH(31), APRIL(30), MAY(31), JUNE(30), JULY(31),

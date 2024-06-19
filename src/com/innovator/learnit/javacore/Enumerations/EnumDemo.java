@@ -1,4 +1,4 @@
-package com.innovator.learnit.javacore.Enumeration;
+package com.innovator.learnit.javacore.Enumerations;
 
 public class EnumDemo {
 
